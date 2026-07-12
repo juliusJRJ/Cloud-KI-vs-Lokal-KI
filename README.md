@@ -1,5 +1,5 @@
 # Cloud-KI-vs-Lokal-KI
-## Klassifikation mehrsprachiger Support-Tickets: Prototyp, Cloud-LLM und lokales LLM im Vergleich
+## Klassifikation mehrsprachiger Support-Tickets: Mashine Learning Prototyp, Cloud-LLM und lokales LLM im Vergleich
 
 Dieses Repository enthält das Begleitmaterial zu dem Projekt im Rahmen des Kurses Wissensmanagement, die drei unterschiedliche Ansätze zur automatischen Klassifikation mehrsprachiger Kundenservice-Tickets einander gegenüberstellt: ein klassisches Machine-Learning-Verfahren auf Basis von Sentence-Embeddings und XGBoost, einen cloudbasierten Ansatz über die Anthropic-API (Claude) sowie einen vollständig lokal auf eigener Hardware ausgeführten Ansatz über die Laufzeitumgebung Ollama. Alle drei Verfahren werden entlang derselben drei Dimensionen bewertet, nämlich der Qualität der Klassifikation, den damit verbundenen Kosten und der Latenz, wodurch sich trotz der grundverschiedenen technischen Umsetzung ein direkter Vergleich ziehen lässt.
 
